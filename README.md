@@ -1,2 +1,3 @@
 # Zalus-Boateng
-Profile
+Introduction
+<!-- Hi there my name is zalus 
